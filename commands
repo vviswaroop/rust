@@ -4,6 +4,8 @@ cargo new name --> creating a new project with efficient package manager
 
 cargo build
 
+cargo build --release
+
 cargo run
 
 
