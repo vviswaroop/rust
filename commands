@@ -8,4 +8,4 @@ cargo build --release
 
 cargo run
 
-
+cargo test
